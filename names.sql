@@ -1,2 +1,2 @@
 select * from names;
-select
+select * from names2;
